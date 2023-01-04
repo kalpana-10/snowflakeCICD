@@ -1,0 +1,5 @@
+
+CREATE TABLE "SNOWFLAKCICD"."SNOWFLAKCICD_SCHEMA"."SAMPLE_snowflakeCICDsample"
+(
+sample_number VARCHAR
+);
