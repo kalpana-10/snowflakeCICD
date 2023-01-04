@@ -1,0 +1,1 @@
+create stream if not exists "SNOWFLAKCICD"."SNOWFLAKCICD_SCHEMA"."SAMPLE_snowflakeCICD_STREAM" on table "SNOWFLAKCICD"."SNOWFLAKCICD_SCHEMA"."SAMPLE_snowflakeCICD";
